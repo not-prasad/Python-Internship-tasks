@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-url = "https://www.aajtak.in/"
+url = "https://www.indiatoday.in/"
 
 
 
